@@ -317,7 +317,7 @@ class Verify extends StatelessWidget {
                       context, MaterialPageRoute(builder: (context) => const Akshaya()),
                          );
                   },
-                  child: const Text('Request OTP',
+                  child: const Text('Submit OTP',
                   style: TextStyle(color: Colors.white),),
                   
         ),
