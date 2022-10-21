@@ -60,7 +60,7 @@ class Akshaya extends StatelessWidget {
             thickness: 1,
             indent: 20,
             endIndent: 0,
-            color: Colors.blueAccent,
+            color: Color(0xFF448AFF),
           ),
           const SizedBox(height: 10.0,),
             const Text("No child in India shall be deprived of education because of hunger",
